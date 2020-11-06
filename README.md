@@ -1,9 +1,9 @@
 # a-simple-quote-generator
-
-# sample
+### Live view - https://danielotuo.github.io/quote-generate/
+## sample
 
 ![](sample_1.gif)
 
-# Resources
+## Resources
 
 Quotes API - https://forismatic.com/en/
